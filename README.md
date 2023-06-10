@@ -33,3 +33,9 @@ This app was built by Nikhil Kumar Kataria.
 # Screenshot
 
 https://github.com/Nikhil3389/chaabi/assets/71307854/16ce121a-3180-4272-997e-afc0a7e724fa
+
+
+## Deployment Using AWS
+# Link is
+http://chaabi-assignment.s3-website.ap-south-1.amazonaws.com/
+
